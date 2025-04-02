@@ -1,0 +1,2 @@
+ID : 112. Name : Peter . Age : 21 . Gender : M . Initial Diagnostics : StomachPain . ADMIT DATE :2023-12-23
+ID : 231. Name : Diana . Age : 23 . Gender : F . Initial Diagnostics : BrokenArm . ADMIT DATE :2023-12-23

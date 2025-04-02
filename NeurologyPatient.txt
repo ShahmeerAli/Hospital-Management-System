@@ -1,0 +1,3 @@
+ID : 1234 . Name: Steve. AGE: 34. Gender:M. BedNo : 3 .ADMIT DATE: 2023-12-23 
+ID : 221 . Name: Walter. AGE: 32. Gender:M. BedNo : 7 .ADMIT DATE: 2023-12-23 
+ID : 322 . Name: Ellen. AGE: 66. Gender:F. BedNo : 9 .ADMIT DATE: 2023-12-23 

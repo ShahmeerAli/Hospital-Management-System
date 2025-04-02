@@ -1,0 +1,3 @@
+ID: 321. Name : Kain . Age : 322 . Gender : M . BedNo: 9  . ADMIT DATE : 2023-12-23
+ID: 112. Name : Lana . Age : 12 . Gender : F . BedNo: 17  . ADMIT DATE : 2023-12-23
+ID: 111. Name : Helen . Age : 45 . Gender : F . BedNo: 1  . ADMIT DATE : 2023-12-23
